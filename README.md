@@ -11,3 +11,5 @@ Sử dụng Win API, truy cập vào bộ nhớ chương trình EMPIRESX.EXE r�
 base adddr tên phòng mình tìm kiếm bằng CheatEngine, không quá khó để tìm ra sau một vài lần search.
 
 Thời gian tới nếu có thời gian, nhất định sẽ viết một bản chống hack made by me :3 rảnh rỗi hơn nữa thì sẽ viết một hệ thống chấm điểm ranking xếp hạng người chơi thông qua số trận thắng thua, chỉ số kill - loss, chỉ số phù, chỉ số dân, chỉ số nâng cấp công nghệ, thời gian kích đời, v.v... 
+![alt text](https://github.com/28dec/gtvplus/blob/master/49196471_2258219607836896_2400052382412046336_n.png)
+![alt text](https://github.com/28dec/gtvplus/blob/master/49069768_2303707359747625_4199096079695740928_n.png)
